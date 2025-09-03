@@ -1,5 +1,5 @@
 import Sidebar from "./components/sidebar/Sidebar";
-import Main from "./components/main/Main";
+import Main from "./components/Main/Main";
 function App() {
   return (
     <div className="flex w-screen">
